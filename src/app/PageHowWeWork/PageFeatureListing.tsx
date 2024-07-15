@@ -76,7 +76,7 @@ const PageFeatureListing: React.FC = () => {
           font-family: 'Cinzel Decorative', cursive;
         }
       `}</style>
-      <h2 className="text-center mb-6 text-3xl unique-features-text">
+      <h2 className="text-center mb-6 text-4xl unique-features-text">
         Get tons of unique features for your Listing.
       </h2>
       <div className="grid sm:grid-cols-2 gap-x-5 gap-y-8 lg:grid-cols-4 xl:gap-x-8">
